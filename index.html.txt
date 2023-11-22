@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mohammed Hanan - Portfolio</title>
+<style>
+body {
+margin: 0;
+padding: 0;
+font-family: 'Arial', sans-serif;
+background: url('background-image.jpg') center/cover; /* Subtle background image */
+color: #fff; /* White text color */
+background-color: #000; /* Black background color */
+}
+
+header {
+text-align: center;
+padding: 50px;
+background-color: #333; /* Dark gray background color for the header */
+}
+
+header h1 {
+margin: 0;
+font-size: 2.5em;
+color: #e74c3c; /* Red font color */
+}
+
+header p {
+margin-top: 5px;
+font-size: 1.5em;
+color: #e74c3c; /* Red font color */
+}
+
+section {
+padding: 20px;
+background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black background for sections */
+border-radius: 10px; /* Rounded corners */
+margin: 20px;
+}
+
+h2 {
+color: #e74c3c; /* Red for section headings */
+}
+
+footer {
+text-align: center;
+padding: 10px;
+background-color: #333; /* Dark gray background color for the footer */
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Mohammed Hanan</h1>
+<p>Computer Engineer | Studied at Christ College of Engineering | Home at Thrissur</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>I am a passionate computer engineer with a focus on innovative solutions. My journey at Christ College of Engineering has equipped me with a solid foundation in computer science and engineering. I enjoy tackling challenging problems and turning ideas into reality.</p>
+</section>
+
+<section>
+<h2>Projects</h2>
+<p>Here are a couple of projects I've had the pleasure of working on:</p>
+<ul>
+<li><strong>Smart Home Automation System:</strong> Developed an IoT-based system for automating home appliances and monitoring energy usage.</li>
+<li><strong>E-commerce Website Redesign:</strong> Led a team to revamp the user interface and experience of an e-commerce platform, resulting in a 20% increase in user engagement.</li>
+</ul>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Provide your contact information and links to your social media profiles.</p>
+</section>
+
+<footer>
+<p>&copy; 2023 Mohammed Hanan</p>
+</footer>
+
+</body>
+</html>
